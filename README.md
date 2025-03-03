@@ -9,6 +9,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 - Developed an interactive Tableau Story to analyze Citi Bike data, uncovering key statistics and actionable insights.
 <br>
 [Go to Tableau Public](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1?publish=yes)
+<br>
 [Go to repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 ## Interactive Dashboard in Javascript
@@ -16,6 +17,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 - Designed an interactive dashboard exploring cultured bacteria using javascript.
 <br>
 Go to [dashboard](https://skythelimitdt.github.io/belly-button-challenge/)
+<br>
 Go to [repository](https://github.com/skythelimitdt/belly-button-challenge)
 
 ## Credit Risk Classification Model via Machine Learning
