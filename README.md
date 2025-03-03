@@ -1,5 +1,5 @@
 # My Portfolio
-These projects showcase the skills I developed through the Data Analytics Certification program at Arizona State University.
+A showcase of my Data Analytics projects, demonstrating a diverse skill set in Python, JavaScript, Machine Learning, SQL, NoSQL, and more.
 
 Email: me@eylemy.com
 Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
