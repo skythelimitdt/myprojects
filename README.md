@@ -10,7 +10,8 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 <br>
 [Go to Tableau Public](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1?publish=yes)
 <br>
-[Go to repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
+[Go to Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
+<br>
 
 ## Interactive Dashboard in Javascript
 **Technology Used:** Javascript, HTML
