@@ -8,8 +8,8 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 **Technology Used:** Tableau Public, Jupyter Lab, Python library: pandas
 - Developed an interactive Tableau Story to analyze Citi Bike data, uncovering key statistics and actionable insights.
 <br>
-Go to [Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1?publish=yes)
-Go to [repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
+[Go to Tableau Public](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1?publish=yes)
+[Go to repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 ## Interactive Dashboard in Javascript
 **Technology Used:** Javascript, HTML
