@@ -40,6 +40,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 **Technologies Used:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
 - Designed Flask API using climate data
+
 [View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 ### Employee Database Analysis with SQL
@@ -69,6 +70,8 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 - **Statistical Analysis & Visualization:** Analyzed data from an animal study of SCC tumor treatment, generating summary statistics, and visualizations (bar charts, pie charts, box plots) to compare the efficacy of Capomulin against other drug regimens.
 - **Correlation & Regression:** Performed correlation analysis and regression to assess the relationship between treatment and tumor development, providing insights into the performance of Capomulin in comparison to other drugs.
+
+[View Repository](https://github.com/skythelimitdt/matplotlib-challange)
 
 ### Global Energy Consumption Analysis and Trends
 
@@ -120,3 +123,5 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 - **Web Scraping for Mars News** – Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
 - **Scraping and Analyzing Mars Weather Data** – Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
 - **Data Visualization & Insights** – Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
+
+[View Repository](https://github.com/skythelimitdt/WebScraping)
