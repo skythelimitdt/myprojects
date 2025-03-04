@@ -12,6 +12,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 <br>
 [Go to Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 <br>
+[Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 ## Interactive Dashboard in Javascript
 **Technology Used:** Javascript, HTML
