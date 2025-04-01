@@ -1,8 +1,10 @@
-# My Portfolio
-A showcase of my Data Analytics projects, demonstrating a diverse skill set in Python, JavaScript, Machine Learning, SQL, NoSQL, and more.
+# My Journey to Data Analytics
+
 
 Email: me@eylemy.com
 Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
+
+## Languages and Tools
 
 ## Tableau
 ### Tableau citibike project
