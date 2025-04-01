@@ -63,7 +63,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 ### UK Food Hygiene Ratings Analysis with MongoDB
 
-**Technologies Used:** MongoDB, Jupyter Lab, Python, PyMongo, pprint
+**Tech Stack:** MongoDB, Jupyter Lab, Python, PyMongo, pprint
 
 - **Database Setup & Data Import:** Imported food establishment data from a JSON file into MongoDB, set up a database (uk_food), and confirmed data integrity.
 - **Data Cleaning & Updates:** Added a new restaurant, updated incorrect data types (e.g., converting rating values and coordinates to numerical format), and removed establishments from Dover as per client request.
@@ -108,7 +108,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** Javascript, HTML
 
-- Designed an interactive dashboard exploring cultured bacteria using javascript.
+- **Microbial Diversity Analysis:** Explored the Belly Button Biodiversity dataset to understand microbial species distribution across individuals. Identified a small number of dominant bacterial species while most were rare.
+- **Interactive Data Visualization:** Developed an interactive dashboard using D3.js to allow users to explore microbial diversity per individual. Created a dropdown menu to select participants and dynamically update visualizations.
+- **Data-Driven Insights:** Implemented a horizontal bar chart to display the top 10 bacterial species per individual, a bubble chart to show the distribution of all OTUs, and a metadata panel to present participant demographic details.
 
 [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge)
 
@@ -118,8 +120,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** Javascript, Leaflet.js, D3.js, HTML, CSS
 
-- Interactive map for global earthquake & tectonic plate visualization.
-- Displays global earthquake data from the past 7 days.
+- Created an interactive map using Leaflet.js to visualize real-time global earthquake data and tectonic plate boundaries.
+- Earthquakes are represented by circle markers where size indicates magnitude and color reflects depth, with popups providing detailed information.
+- Integrated interactive layer controls for toggling earthquake and tectonic plate data, offering various base map options (Satellite, Grayscale, Outdoors), and a legend for depth color-coding.
 
 [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge)
 
@@ -129,8 +132,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
 
-- **Web Scraping for Mars News** – Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
-- **Scraping and Analyzing Mars Weather Data** – Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
-- **Data Visualization & Insights** – Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
+- **Web Scraping for Mars News:** Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
+- **Scraping and Analyzing Mars Weather Data:** Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
+- **Data Visualization & Insights:** Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
 
 [View Repository](https://github.com/skythelimitdt/WebScraping)
