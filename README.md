@@ -19,7 +19,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 
 
-## Machine Learning
+## Machine Learning & Neural Networks
 ### Credit Risk Classification Model via Machine Learning
 
 **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -39,6 +39,26 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - Enhanced Cluster Definition with PCA: Post-PCA clustering showed lower inertia (256.87 vs. 287), confirming improved cluster cohesion and a more defined structure in the data.
 
 [View Repository](https://github.com/skythelimitdt/CryptoClustering)
+
+### Predicting Success of a Company with a Neural Network
+
+**Tech Stack:** Python, Scikit-learn, TensorFlow, Matplotlib, Pandas
+
+- **Objective:** Created a neural network to predict the success of organizations applying for funding from Alphabet Soup, using features such as application type, affiliation, and funding amount.
+- **Optimization Techniques:** Applied various methods like feature selection, dropout regularization, early stopping, and hyperparameter tuning using Keras Tuner to improve model performance.
+- **Results:** The best model achieved an accuracy of 0.7335, with further improvements limited by model complexity and dataset alignment. Alternative models like Logistic Regression and Random Forest could be considered for better efficiency and performance.
+
+[View Repository](https://github.com/skythelimitdt/deep-learning-challenge)
+
+### Predicting Flight Delays with Machine Learning
+
+**Tech Stack:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+
+- **Objective:** Developed a machine learning model to predict flight arrival delays for flights departing from Arizona airports using 3 years of flight data, employing models like Random Forest, Gradient - Boosting, and Neural Networks.
+- **Data Analysis & Visualization:** Conducted data cleaning, feature engineering, and created visualizations using Tableau to identify patterns such as delay causes, carrier frequencies, and time-of-day impacts on delays.
+- **Best Model & Results:** The Random Forest model, optimized with SMOTE and hyperparameter tuning, achieved 89% accuracy and 91% OOB score, accurately predicting on-time and delayed flights with high precision and recall.
+
+[View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
 
 ## Databases
 ### Flask API Climate App with SQLAlchemy
@@ -70,6 +90,17 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Exploratory Data Analysis:** Queried and analyzed food hygiene ratings to identify high- and low-rated establishments, focusing on London and new restaurant recommendations.
 
 [View Repository](https://github.com/skythelimitdt/nosql-challenge/tree/main)
+
+### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis
+
+**Tech Stack:** PostgreSQL, quickdatabasediagrams.com, Python, Pandas, Numpy
+
+- Developed an ETL pipeline using Python and Pandas to extract, transform, and load data into a PostgreSQL database from four CSV files: Category, Subcategory, Campaign, and Contacts.
+- Created DataFrames for each CSV, including columns like category IDs, campaign details (goal, pledged amount, launch and end dates), and contact information, then exported them to CSV files.
+- Designed and implemented a PostgreSQL database schema with appropriate primary and foreign keys, ensuring proper relationships between tables, and successfully imported the data into the database for analysis.
+
+[View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
+
 
 ## Python
 
