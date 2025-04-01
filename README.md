@@ -7,11 +7,11 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 ## Tableau
 ### Tableau citibike project
 
-**Goal:** Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
+Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
 **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
-**Results:** Developed an interactive map and conducted station ID analysis, along with monthly, weekly, and daily usage statistics, enabling data-driven decisions to enhance the Citi Bike NYC's efficiency and performance.
+- Developed an interactive map and conducted station ID analysis, along with monthly, weekly, and daily usage statistics, enabling data-driven decisions to enhance the Citi Bike NYC's efficiency and performance.
 
 [View Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1)
 
