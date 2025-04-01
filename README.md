@@ -9,7 +9,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 **Goal:** Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
-**Technology Used:** Tableau Public, Jupyter Lab, Python, Pandas
+**Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
 **Results:** Developed an interactive map and conducted station ID analysis, along with monthly, weekly, and daily usage statistics, enabling data-driven decisions to enhance the Citi Bike NYC's efficiency and performance.
 
@@ -22,7 +22,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 ## Machine Learning
 ### Credit Risk Classification Model via Machine Learning
 
-**Technologies Used:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
+**Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
 
 - Implemented Logistic Regression and Support Vector Machines (SVM) to determine the most effective model for predicting customer creditworthiness
 
@@ -30,7 +30,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering
 
-**Technologies Used:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
+**Tech Stack:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
 
 - Applied k-means algorithm to crypto data 
 
@@ -39,7 +39,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 ## Databases
 ### Flask API Climate App with SQLAlchemy
 
-**Technologies Used:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
+**Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
 - Designed Flask API using climate data
 
@@ -47,7 +47,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Employee Database Analysis with SQL
 
-**Technologies Used:** SQL, PostgreSQL, quickdatabasediagrams.com
+**Tech Stack:** SQL, PostgreSQL, quickdatabasediagrams.com
 
 - Designed and implemented a relational database to store historical employee data by creating tables and importing six CSV files.
 - Performed data modeling, engineering, and analysis to uncover insights about employees from the 1980s and 1990s.
@@ -68,7 +68,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Statistical Analysis: Capomulin Drug Analysis
 
-**Technology Used:** Jupyter Lab, Python, Matplotlib, Seaborn, Pandas, Numpy, SciPy
+**Tech Stack:** Jupyter Lab, Python, Matplotlib, Seaborn, Pandas, Numpy, SciPy
 
 - **Statistical Analysis & Visualization:** Analyzed data from an animal study of SCC tumor treatment, generating summary statistics, and visualizations (bar charts, pie charts, box plots) to compare the efficacy of Capomulin against other drug regimens.
 - **Correlation & Regression:** Performed correlation analysis and regression to assess the relationship between treatment and tumor development, providing insights into the performance of Capomulin in comparison to other drugs.
@@ -77,7 +77,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Global Energy Consumption Analysis and Trends
 
-**Technology Used:** Jupyter Lab, Python, Matplotlib, Pandas, Hvplot, Numpy, SciPy, Seaborn, Statsmodels.api, Holoviews
+**Tech Stack:** Jupyter Lab, Python, Matplotlib, Pandas, Hvplot, Numpy, SciPy, Seaborn, Statsmodels.api, Holoviews
 
 - **Analyzed global energy trends** using the World Energy Consumption dataset to explore relationships between energy production, consumption, GDP, and environmental factors.
 - **Investigated correlations** between renewable energy use and economic indicators, as well as how energy trends align with major global events.
@@ -87,7 +87,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Weather Patterns and Vacation Planning by Latitude
 
-**Technology Used:** Jupyter Lab, Python, Matplotlib, Hvplot, Pandas, Numpy, SciPy, Geoapify API
+**Tech Stack:** Jupyter Lab, Python, Matplotlib, Hvplot, Pandas, Numpy, SciPy, Geoapify API
 
 - **Weather Analysis by Latitude:** Used OpenWeatherMap API to retrieve weather data for over 500 cities, and created scatter plots to visualize how latitude influences weather variables like temperature, humidity, cloudiness, and wind speed.
 - **Linear Regression & Insights:** Computed linear regression for each relationship (temperature, humidity, cloudiness, wind speed) based on latitude, splitting the data into Northern and Southern Hemispheres for detailed analysis.
@@ -99,7 +99,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Interactive Dashboard in Javascript
 
-**Technology Used:** Javascript, HTML
+**Tech Stack:** Javascript, HTML
 
 - Designed an interactive dashboard exploring cultured bacteria using javascript.
 
@@ -109,7 +109,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Map with leaflet
 
-**Technology Used:** Javascript, Leaflet.js, D3.js, HTML, CSS
+**Tech Stack:** Javascript, Leaflet.js, D3.js, HTML, CSS
 
 - Interactive map for global earthquake & tectonic plate visualization.
 - Displays global earthquake data from the past 7 days.
@@ -120,7 +120,7 @@ Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
 
 ### Mars Data Scraping and Climate Analysis
 
-**Technology Used:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
+**Tech Stack:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
 
 - **Web Scraping for Mars News** – Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
 - **Scraping and Analyzing Mars Weather Data** – Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
