@@ -24,7 +24,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
 
-- Implemented Logistic Regression and Support Vector Machines (SVM) to determine the most effective model for predicting customer creditworthiness
+- Loan Risk Prediction with Logistic Regression and SVM: Built and evaluated models using Logistic Regression and Support Vector Machines (SVM) on a peer-to-peer lending dataset to classify borrowers as low-risk or high-risk.
+- SVM Outperformed Logistic Regression in Recall: While both models achieved 99% accuracy, SVM demonstrated higher recall (98%) for high-risk loans, reducing false negatives and improving classification balance.
+- Recommended Model – SVM for Financial Decision-Making: Due to its superior recall and macro-average score (96%), SVM was the preferred model, minimizing the misclassification of high-risk loans as low risk—critical for lending risk assessment.
 
 [View Repository](https://github.com/skythelimitdt/credit-risk-classification)
 
@@ -32,7 +34,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
 
-- Applied k-means algorithm to crypto data 
+- Optimized Clustering with K-Means and PCA: Applied K-Means clustering on normalized cryptocurrency data, identifying an optimal k-value of 4 using the elbow method.
+- Dimensionality Reduction Improved Cluster Separation: Performed PCA (3 components, 89% variance retained), leading to tighter, more compact clusters and reducing noise while preserving key data patterns.
+- Enhanced Cluster Definition with PCA: Post-PCA clustering showed lower inertia (256.87 vs. 287), confirming improved cluster cohesion and a more defined structure in the data.
 
 [View Repository](https://github.com/skythelimitdt/CryptoClustering)
 
@@ -41,7 +45,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
-- Designed Flask API using climate data
+- **Climate Data Analysis for Honolulu:** Conducted an exploratory analysis of precipitation and temperature trends in Honolulu using Python, SQLAlchemy, Pandas, and Matplotlib. Queried 12 months of precipitation data, identified the most active weather station, and visualized temperature observations.
+- **Flask API Development for Climate Data:** Built a Flask API to serve climate data via multiple endpoints, including precipitation records, weather stations, and temperature observations for the most active station. Implemented JSON responses for user-defined date ranges.
+- **Interactive Data Exploration & Visualization:** Created line plots and histograms to analyze precipitation patterns and temperature distributions, helping users interpret historical climate trends for better vacation planning.
 
 [View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
@@ -49,8 +55,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 **Tech Stack:** SQL, PostgreSQL, quickdatabasediagrams.com
 
-- Designed and implemented a relational database to store historical employee data by creating tables and importing six CSV files.
-- Performed data modeling, engineering, and analysis to uncover insights about employees from the 1980s and 1990s.
+- **Database Schema Design:** Created an Entity Relationship Diagram (ERD) to model relationships between employees, departments, salaries, titles, and managers. Defined primary and foreign keys to ensure data integrity.
+- **Data Engineering & SQL Table Creation:** Designed and implemented a relational database schema using SQL. Created six tables with appropriate data types, constraints, and relationships, then imported CSV data into the database.
+- **SQL-Based Data Analysis:** Conducted complex queries to retrieve employee and department-related insights, including salary details, hire dates, department managers, employees in specific departments, and common last names. Optimized queries for performance and accuracy.
 
 [View Repository](https://github.com/skythelimitdt/sql-challange)
 
