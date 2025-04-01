@@ -8,6 +8,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 SQL, PostgreSQL, SQLAlchemy, NoSQL, MongoDB, Flask, PyMongo, Python, Jupyter Lab, Machine Learning, TensorFlow, Scikit-learn, Big Data, Hadoop, PySpark, Hive
 AWS SageMaker AI, Google Colab, Databricks
 
+
 ## Projects 
 ### Tableau
 #### Tableau citibike project
