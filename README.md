@@ -1,13 +1,16 @@
-# My Journey to Data Analytics
+# Eylem Yildirim
+> Data Analyst / Digital Marketer / Gym Rat / Mother
+I’m a data scientist with a passion for turning numbers into narratives and optimizing everything—whether it's ad performance, machine learning models, or even my kids’ Uno strategy. With over 20 years in data analytics, performance marketing, and ad-tech, I thrive on uncovering insights that drive real business impact. I specialize in SQL, Python, big data, and machine learning, helping businesses maximize ROI, improve KPIs, and optimize LTV.
 
-
-Email: me@eylemy.com
-Linkedin: [Eylem Yildirim](https://www.linkedin.com/in/eylemy/)
+When I’m not diving into datasets or fine-tuning predictive models, you’ll find me staying active—whether it’s working out, sprinting around the park in epic races with my kids, or outthinking them in a heated Uno showdown (spoiler: they win more than I’d like to admit). I also love reading and constantly exploring ways to refine strategies, not just in business but in life. My goal? To keep pushing boundaries, solving complex problems, and making data-driven decisions that matter.
 
 ## Languages and Tools
+SQL, PostgreSQL, SQLAlchemy, NoSQL, MongoDB, Flask, PyMongo, Python, Jupyter Lab, Machine Learning, TensorFlow, Scikit-learn, Big Data, Hadoop, PySpark, Hive
+AWS SageMaker AI, Google Colab, Databricks
 
-## Tableau
-### Tableau citibike project
+## Projects 
+### Tableau
+#### Tableau citibike project
 
 Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
@@ -21,8 +24,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 
 
-## Machine Learning & Neural Networks
-### Credit Risk Classification Model via Machine Learning
+### Machine Learning & Neural Networks
+#### Credit Risk Classification Model via Machine Learning
 
 **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
 
@@ -32,7 +35,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/credit-risk-classification)
 
-### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering
+#### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering
 
 **Tech Stack:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
 
@@ -42,7 +45,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/CryptoClustering)
 
-### Predicting Success of a Company with a Neural Network
+#### Predicting Success of a Company with a Neural Network
 
 **Tech Stack:** Python, Scikit-learn, TensorFlow, Matplotlib, Pandas
 
@@ -52,7 +55,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/deep-learning-challenge)
 
-### Predicting Flight Delays with Machine Learning
+#### Predicting Flight Delays with Machine Learning
 
 **Tech Stack:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 
@@ -62,8 +65,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
 
-## Databases
-### Flask API Climate App with SQLAlchemy
+### Databases
+#### Flask API Climate App with SQLAlchemy
 
 **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
@@ -73,7 +76,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
-### Employee Database Analysis with SQL
+#### Employee Database Analysis with SQL
 
 **Tech Stack:** SQL, PostgreSQL, quickdatabasediagrams.com
 
@@ -83,7 +86,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/sql-challange)
 
-### UK Food Hygiene Ratings Analysis with MongoDB
+#### UK Food Hygiene Ratings Analysis with MongoDB
 
 **Tech Stack:** MongoDB, Jupyter Lab, Python, PyMongo, pprint
 
@@ -93,7 +96,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/nosql-challenge/tree/main)
 
-### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis
+#### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis
 
 **Tech Stack:** PostgreSQL, quickdatabasediagrams.com, Python, Pandas, Numpy
 
@@ -104,9 +107,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 [View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
 
 
-## Python
+### Python
 
-### Statistical Analysis: Capomulin Drug Analysis
+#### Statistical Analysis: Capomulin Drug Analysis
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Seaborn, Pandas, Numpy, SciPy
 
@@ -115,7 +118,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/matplotlib-challange)
 
-### Global Energy Consumption Analysis and Trends
+#### Global Energy Consumption Analysis and Trends
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Pandas, Hvplot, Numpy, SciPy, Seaborn, Statsmodels.api, Holoviews
 
@@ -125,7 +128,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/data_analytics_proj1)
 
-### Weather Patterns and Vacation Planning by Latitude
+#### Weather Patterns and Vacation Planning by Latitude
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Hvplot, Pandas, Numpy, SciPy, Geoapify API
 
@@ -135,9 +138,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/python-api-challange/tree/main)
 
-## Javascript & HTML
+### Javascript & HTML
 
-### Interactive Dashboard in Javascript
+#### Interactive Dashboard in Javascript
 
 **Tech Stack:** Javascript, HTML
 
@@ -149,7 +152,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/belly-button-challenge)
 
-### Map with leaflet
+#### Map with leaflet
 
 **Tech Stack:** Javascript, Leaflet.js, D3.js, HTML, CSS
 
@@ -161,7 +164,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/leaflet-challenge)
 
-### Mars Data Scraping and Climate Analysis
+#### Mars Data Scraping and Climate Analysis
 
 **Tech Stack:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
 
