@@ -59,17 +59,6 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
   </p>
 
-<h3>📊 Data Visualization & BI Tools</h3>
-
-  <p>
- <a href="#"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/> </a>
- <a href="#"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" width="40" height="40" alt="Google Looker Studio"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/D3js-logo.svg" width="40" height="40" alt="D3.js"/> </a> 
-<img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib"/> </a>
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" alt="Seaborn"/> 
-<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40" alt="Plotly"/> </a>
-
- </p> 
 
 ## 🔍 My Projects 
 ### 📊 Tableau
