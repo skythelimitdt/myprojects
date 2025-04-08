@@ -5,7 +5,7 @@ I’m a data analyst with a passion for turning numbers into narratives and opti
 
 When I’m not diving into datasets or fine-tuning predictive models, you’ll find me staying active—whether it’s working out, sprinting around the park in epic races with my kids, or outthinking them in a heated Uno showdown (spoiler: they win more than I’d like to admit). I also love reading and constantly exploring ways to refine strategies, not just in business but in life. My goal? To keep pushing boundaries, solving complex problems, and making data-driven decisions that matter.
 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <h2>🛠️ My Favorite Tools</h2>
 
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -29,7 +29,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy"></a>
+      <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy&labelColor=%23cc0000&color=%23cc0000"></a>
       <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
       <a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
   </p>
