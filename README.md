@@ -29,18 +29,23 @@ AWS SageMaker AI, Google Colab, Databricks
   </p>
     <h3>🧰 Frameworks and Libraries</h3>
 
-  <p>
-
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+   <p>
+      <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-     <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy"></a>
-     <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
-     <a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
-      <a href="#"><img alt=“apache-spark” src="https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apache%20spark&logoColor=white&labelColor=%234da6ff&color=%234da6ff"></a>
-
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
+      <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
+      <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy"></a>
+      <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
+      <a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
