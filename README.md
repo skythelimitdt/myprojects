@@ -60,8 +60,8 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
   </p>
 
 
-## Projects 
-### Tableau
+## 🔍 My Projects 
+### 📊 Tableau
 #### Tableau citibike project
 
 Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
@@ -76,7 +76,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 
 
-### Machine Learning & Neural Networks
+### 🧠 Machine Learning & 🤖 Neural Networks
 #### Credit Risk Classification Model via Machine Learning
 
 **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -117,7 +117,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
 
-### Databases
+### 🗄️ Databases
 #### Flask API Climate App with SQLAlchemy
 
 **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
@@ -159,7 +159,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 [View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
 
 
-### Python
+### 🐍 Python
 
 #### Statistical Analysis: Capomulin Drug Analysis
 
@@ -190,7 +190,7 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 
 [View Repository](https://github.com/skythelimitdt/python-api-challange/tree/main)
 
-### Javascript & HTML
+### 💛 Javascript & HTML
 
 #### Interactive Dashboard in Javascript
 
