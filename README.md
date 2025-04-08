@@ -5,13 +5,8 @@ I’m a data analyst with a passion for turning numbers into narratives and opti
 
 When I’m not diving into datasets or fine-tuning predictive models, you’ll find me staying active—whether it’s working out, sprinting around the park in epic races with my kids, or outthinking them in a heated Uno showdown (spoiler: they win more than I’d like to admit). I also love reading and constantly exploring ways to refine strategies, not just in business but in life. My goal? To keep pushing boundaries, solving complex problems, and making data-driven decisions that matter.
 
-## Languages and Tools
-SQL, PostgreSQL, SQLAlchemy, NoSQL, MongoDB, Flask, PyMongo, Python, Jupyter Lab, Machine Learning, TensorFlow, Scikit-learn, Big Data, Hadoop, PySpark, Hive
-AWS SageMaker AI, Google Colab, Databricks
-
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -58,9 +53,12 @@ AWS SageMaker AI, Google Colab, Databricks
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/databricks-288292?style=for-the-badge&logo=databricks&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/aws_sagemaker-32948?style=for-the-badge&logo=aws%20sagemaker&logoColor=white&labelColor=%23bf80ff&color=%23bf80ff"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Google_colab-white?style=for-the-badge&logo=google%20colab&labelColor=%236699ff&color=%236699ff"></a>
 
   </p>
-</details>
+
 
 ## Projects 
 ### Tableau
