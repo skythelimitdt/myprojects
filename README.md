@@ -31,19 +31,15 @@ AWS SageMaker AI, Google Colab, Databricks
 
   <p>
 
-       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-<a href="#"><img alt=“sql”alchemy src="https://img.shields.io/badge/sqlalchemy-000000.svg?logo=sqlalchemy&logoColor=white"></a>
- <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/sqlalchemy.svg?logo=sqlalchemy-min></a>
- <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/sqlalchemy-min.svg?logo=sqlalchemy-min&logoColor=white"></a>
-<a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy"></a>
-<a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
-<a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
-<a href="#"><img alt=“apache-spark” src="https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apache%20spark&logoColor=white&labelColor=%234da6ff&color=%234da6ff"></a>
- 
+     <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy"></a>
+     <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
+     <a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
+      <a href="#"><img alt=“apache-spark” src="https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apache%20spark&logoColor=white&labelColor=%234da6ff&color=%234da6ff"></a>
 
   </p>
 
