@@ -63,24 +63,26 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 <h3>📊 Data Visualization & BI Tools</h3>
 
   <p>
-  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="20" alt="tableau"/> </a>
-  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="80" height="20" alt="matplotlib"/> </a>
-  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="80" height="25" alt="Seaborn"/> </a>
+  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="22" alt="tableau"/> </a>
+  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="80" height="22" alt="matplotlib"/> </a>
+  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="80" height="22" alt="Seaborn"/> </a>
+
+--- 
 
 ## 🔍 My Projects 
 ### 📊 Tableau
 #### Tableau citibike project | [View Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
-Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
-**Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
+> **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
-- Developed an interactive map and conducted station ID analysis, along with monthly, weekly, and daily usage statistics, enabling data-driven decisions to enhance the Citi Bike NYC's efficiency and performance.
+- Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
 
+#
 
 ### 🧠 Machine Learning & 🤖 Neural Networks
-#### Credit Risk Classification Model via Machine Learning
+#### Credit Risk Classification Model via Machine Learning | [View Repository](https://github.com/skythelimitdt/credit-risk-classification)
 
 **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
 
@@ -88,9 +90,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - SVM Outperformed Logistic Regression in Recall: While both models achieved 99% accuracy, SVM demonstrated higher recall (98%) for high-risk loans, reducing false negatives and improving classification balance.
 - Recommended Model – SVM for Financial Decision-Making: Due to its superior recall and macro-average score (96%), SVM was the preferred model, minimizing the misclassification of high-risk loans as low risk—critical for lending risk assessment.
 
-[View Repository](https://github.com/skythelimitdt/credit-risk-classification)
 
-#### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering
+#### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering | [View Repository](https://github.com/skythelimitdt/CryptoClustering)
 
 **Tech Stack:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
 
@@ -98,9 +99,9 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - Dimensionality Reduction Improved Cluster Separation: Performed PCA (3 components, 89% variance retained), leading to tighter, more compact clusters and reducing noise while preserving key data patterns.
 - Enhanced Cluster Definition with PCA: Post-PCA clustering showed lower inertia (256.87 vs. 287), confirming improved cluster cohesion and a more defined structure in the data.
 
-[View Repository](https://github.com/skythelimitdt/CryptoClustering)
 
-#### Predicting Success of a Company with a Neural Network
+
+#### Predicting Success of a Company with a Neural Network | [View Repository](https://github.com/skythelimitdt/deep-learning-challenge)
 
 **Tech Stack:** Python, Scikit-learn, TensorFlow, Matplotlib, Pandas
 
@@ -108,9 +109,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Optimization Techniques:** Applied various methods like feature selection, dropout regularization, early stopping, and hyperparameter tuning using Keras Tuner to improve model performance.
 - **Results:** The best model achieved an accuracy of 0.7335, with further improvements limited by model complexity and dataset alignment. Alternative models like Logistic Regression and Random Forest could be considered for better efficiency and performance.
 
-[View Repository](https://github.com/skythelimitdt/deep-learning-challenge)
 
-#### Predicting Flight Delays with Machine Learning
+#### Predicting Flight Delays with Machine Learning | [View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
 
 **Tech Stack:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 
@@ -118,10 +118,10 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Data Analysis & Visualization:** Conducted data cleaning, feature engineering, and created visualizations using Tableau to identify patterns such as delay causes, carrier frequencies, and time-of-day impacts on delays.
 - **Best Model & Results:** The Random Forest model, optimized with SMOTE and hyperparameter tuning, achieved 89% accuracy and 91% OOB score, accurately predicting on-time and delayed flights with high precision and recall.
 
-[View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
+#
 
 ### 🗄️ Databases
-#### Flask API Climate App with SQLAlchemy
+#### Flask API Climate App with SQLAlchemy | [View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
@@ -129,9 +129,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Flask API Development for Climate Data:** Built a Flask API to serve climate data via multiple endpoints, including precipitation records, weather stations, and temperature observations for the most active station. Implemented JSON responses for user-defined date ranges.
 - **Interactive Data Exploration & Visualization:** Created line plots and histograms to analyze precipitation patterns and temperature distributions, helping users interpret historical climate trends for better vacation planning.
 
-[View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
-#### Employee Database Analysis with SQL
+#### Employee Database Analysis with SQL | [View Repository](https://github.com/skythelimitdt/sql-challange)
 
 **Tech Stack:** SQL, PostgreSQL, quickdatabasediagrams.com
 
@@ -139,9 +138,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Data Engineering & SQL Table Creation:** Designed and implemented a relational database schema using SQL. Created six tables with appropriate data types, constraints, and relationships, then imported CSV data into the database.
 - **SQL-Based Data Analysis:** Conducted complex queries to retrieve employee and department-related insights, including salary details, hire dates, department managers, employees in specific departments, and common last names. Optimized queries for performance and accuracy.
 
-[View Repository](https://github.com/skythelimitdt/sql-challange)
 
-#### UK Food Hygiene Ratings Analysis with MongoDB
+#### UK Food Hygiene Ratings Analysis with MongoDB | [View Repository](https://github.com/skythelimitdt/nosql-challenge/tree/main)
 
 **Tech Stack:** MongoDB, Jupyter Lab, Python, PyMongo, pprint
 
@@ -149,9 +147,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Data Cleaning & Updates:** Added a new restaurant, updated incorrect data types (e.g., converting rating values and coordinates to numerical format), and removed establishments from Dover as per client request.
 - **Exploratory Data Analysis:** Queried and analyzed food hygiene ratings to identify high- and low-rated establishments, focusing on London and new restaurant recommendations.
 
-[View Repository](https://github.com/skythelimitdt/nosql-challenge/tree/main)
 
-#### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis
+#### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis | [View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
 
 **Tech Stack:** PostgreSQL, quickdatabasediagrams.com, Python, Pandas, Numpy
 
@@ -159,21 +156,19 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - Created DataFrames for each CSV, including columns like category IDs, campaign details (goal, pledged amount, launch and end dates), and contact information, then exported them to CSV files.
 - Designed and implemented a PostgreSQL database schema with appropriate primary and foreign keys, ensuring proper relationships between tables, and successfully imported the data into the database for analysis.
 
-[View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
-
+#
 
 ### 🐍 Python
 
-#### Statistical Analysis: Capomulin Drug Analysis
+#### Statistical Analysis: Capomulin Drug Analysis | [View Repository](https://github.com/skythelimitdt/matplotlib-challange)
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Seaborn, Pandas, Numpy, SciPy
 
 - **Statistical Analysis & Visualization:** Analyzed data from an animal study of SCC tumor treatment, generating summary statistics, and visualizations (bar charts, pie charts, box plots) to compare the efficacy of Capomulin against other drug regimens.
 - **Correlation & Regression:** Performed correlation analysis and regression to assess the relationship between treatment and tumor development, providing insights into the performance of Capomulin in comparison to other drugs.
 
-[View Repository](https://github.com/skythelimitdt/matplotlib-challange)
 
-#### Global Energy Consumption Analysis and Trends
+#### Global Energy Consumption Analysis and Trends | [View Repository](https://github.com/skythelimitdt/data_analytics_proj1)
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Pandas, Hvplot, Numpy, SciPy, Seaborn, Statsmodels.api, Holoviews
 
@@ -181,9 +176,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Investigated correlations** between renewable energy use and economic indicators, as well as how energy trends align with major global events.
 - **Forecasted future renewable energy consumption** for the next 50 years based on historical data.
 
-[View Repository](https://github.com/skythelimitdt/data_analytics_proj1)
 
-#### Weather Patterns and Vacation Planning by Latitude
+#### Weather Patterns and Vacation Planning by Latitude | [View Repository](https://github.com/skythelimitdt/python-api-challange/tree/main)
 
 **Tech Stack:** Jupyter Lab, Python, Matplotlib, Hvplot, Pandas, Numpy, SciPy, Geoapify API
 
@@ -191,11 +185,11 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Linear Regression & Insights:** Computed linear regression for each relationship (temperature, humidity, cloudiness, wind speed) based on latitude, splitting the data into Northern and Southern Hemispheres for detailed analysis.
 - **Vacation Planning:** Created an interactive map that displays cities with humidity data, narrowed down cities with ideal weather, and used the Geoapify API to find nearby hotels, displaying them on the map with additional details for easy vacation planning.
 
-[View Repository](https://github.com/skythelimitdt/python-api-challange/tree/main)
+# 
 
 ### 💛 Javascript & HTML
 
-#### Interactive Dashboard in Javascript
+#### Interactive Dashboard in Javascript | [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge) | [View Repository](https://github.com/skythelimitdt/belly-button-challenge)
 
 **Tech Stack:** Javascript, HTML
 
@@ -203,11 +197,8 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - **Interactive Data Visualization:** Developed an interactive dashboard using D3.js to allow users to explore microbial diversity per individual. Created a dropdown menu to select participants and dynamically update visualizations.
 - **Data-Driven Insights:** Implemented a horizontal bar chart to display the top 10 bacterial species per individual, a bubble chart to show the distribution of all OTUs, and a metadata panel to present participant demographic details.
 
-[View Dashboard](https://skythelimitdt.github.io/belly-button-challenge)
 
-[View Repository](https://github.com/skythelimitdt/belly-button-challenge)
-
-#### Map with leaflet
+#### Map with leaflet | [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge) | [View Repository](https://github.com/skythelimitdt/leaflet-challenge)
 
 **Tech Stack:** Javascript, Leaflet.js, D3.js, HTML, CSS
 
@@ -215,16 +206,10 @@ Designed and developed an interactive dashboard to help Citi Bike officials anal
 - Earthquakes are represented by circle markers where size indicates magnitude and color reflects depth, with popups providing detailed information.
 - Integrated interactive layer controls for toggling earthquake and tectonic plate data, offering various base map options (Satellite, Grayscale, Outdoors), and a legend for depth color-coding.
 
-[View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge)
-
-[View Repository](https://github.com/skythelimitdt/leaflet-challenge)
-
-#### Mars Data Scraping and Climate Analysis
+#### Mars Data Scraping and Climate Analysis | [View Repository](https://github.com/skythelimitdt/WebScraping)
 
 **Tech Stack:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
 
 - **Web Scraping for Mars News:** Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
 - **Scraping and Analyzing Mars Weather Data:** Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
 - **Data Visualization & Insights:** Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
-
-[View Repository](https://github.com/skythelimitdt/WebScraping)
