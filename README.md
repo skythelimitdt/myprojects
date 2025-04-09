@@ -66,7 +66,8 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
   <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="20" alt="tableau"/> </a>
   <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="90" height="20" alt="matplotlib"/> </a>
   <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="90" height="20" alt="Seaborn"/> </a>
-  <a href="#"><img alt="d3.js" src="https://custom-icon-badges.demolab.com/badge/d3.js-379374?style=for-the-badge&logo=d3-min&labelColor=%236666ff&color=%236666ff" width="80" height="20" alt="d3.js"/> </a>
+  <a href="#"><img alt="d3.js" src="https://custom-icon-badges.demolab.com/badge/d3.js-379374?style=for-the-badge&logo=d3-min&labelColor=%236666ff&color=%236666ff" width="80" height="20" alt="d3.js"/> </a> 
+
 --- 
 
 ## 🔍 My Projects 
