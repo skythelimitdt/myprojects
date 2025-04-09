@@ -63,9 +63,9 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 <h3>📊 Data Visualization & BI Tools</h3>
 
   <p>
-  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="40" alt="Seaborn"/> ></a>
-  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="80" height="40" alt="Seaborn"/> ></a>
-  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="80" height="40" alt="Seaborn"/> ></a>
+  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="100" height="30" alt="tableau"/> </a>
+  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="100" height="20" alt="matplotlib"/> </a>
+  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="100" height="20" alt="Seaborn"/> </a>
 
 ## 🔍 My Projects 
 ### 📊 Tableau
