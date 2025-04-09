@@ -72,9 +72,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 ## 🔍 My Projects 
 <details> 
  <summary><h3> 📊 Tableau </h3></summary>
-<h4></h4> Tableau citibike project </details>h4></h4> |  <a href="https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1"> View Dashboard </a> 
-[View Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
-
+<h4>Tableau citibike project </h4> |  <a href="https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1"> View Dashboard </a> | <a href="https://github.com/skythelimitdt/tableau-citibike-analysis"> View Repo </a>
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
