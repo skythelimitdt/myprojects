@@ -78,9 +78,10 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 - Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
+#
 
 ### 🧠 Machine Learning & 🤖 Neural Networks
-#### Credit Risk Classification Model via Machine Learning | [View Repository](https://github.com/skythelimitdt/credit-risk-classification)
+#### Credit Risk Classification Model via Machine Learning | [View Repo](https://github.com/skythelimitdt/credit-risk-classification)
 
 > **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
 
@@ -89,7 +90,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - Recommended Model – SVM for Financial Decision-Making: Due to its superior recall and macro-average score (96%), SVM was the preferred model, minimizing the misclassification of high-risk loans as low risk—critical for lending risk assessment.
 
 
-#### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering | [View Repository](https://github.com/skythelimitdt/CryptoClustering)
+#### Crypto Clustering via Unsupervised Machine Learning Algorithm, K-means clustering | [View Repo](https://github.com/skythelimitdt/CryptoClustering)
 
 > **Tech Stack:** Jupyter Lab, Python, Scikit-learn, Pandas, Hvplot
 
@@ -99,7 +100,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 
 
-#### Predicting Success of a Company with a Neural Network | [View Repository](https://github.com/skythelimitdt/deep-learning-challenge)
+#### Predicting Success of a Company with a Neural Network | [View Repo](https://github.com/skythelimitdt/deep-learning-challenge)
 
 > **Tech Stack:** Python, Scikit-learn, TensorFlow, Matplotlib, Pandas
 
@@ -108,7 +109,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Results:** The best model achieved an accuracy of 0.7335, with further improvements limited by model complexity and dataset alignment. Alternative models like Logistic Regression and Random Forest could be considered for better efficiency and performance.
 
 
-#### Predicting Flight Delays with Machine Learning | [View Repository](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
+#### Predicting Flight Delays with Machine Learning | [View Repo](https://github.com/wrighang/predicting_flight_arrival_delay_ml/tree/main)
 
 > **Tech Stack:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 
@@ -119,7 +120,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 #
 
 ### 🗄️ Databases
-#### Flask API Climate App with SQLAlchemy | [View Repository](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
+#### Flask API Climate App with SQLAlchemy | [View Repo](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 > **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
 
@@ -128,7 +129,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Interactive Data Exploration & Visualization:** Created line plots and histograms to analyze precipitation patterns and temperature distributions, helping users interpret historical climate trends for better vacation planning.
 
 
-#### Employee Database Analysis with SQL | [View Repository](https://github.com/skythelimitdt/sql-challange)
+#### Employee Database Analysis with SQL | [View Repo](https://github.com/skythelimitdt/sql-challange)
 
 > **Tech Stack:** SQL, PostgreSQL, quickdatabasediagrams.com
 
@@ -137,7 +138,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **SQL-Based Data Analysis:** Conducted complex queries to retrieve employee and department-related insights, including salary details, hire dates, department managers, employees in specific departments, and common last names. Optimized queries for performance and accuracy.
 
 
-#### UK Food Hygiene Ratings Analysis with MongoDB | [View Repository](https://github.com/skythelimitdt/nosql-challenge/tree/main)
+#### UK Food Hygiene Ratings Analysis with MongoDB | [View Repo](https://github.com/skythelimitdt/nosql-challenge/tree/main)
 
 > **Tech Stack:** MongoDB, Jupyter Lab, Python, PyMongo, pprint
 
@@ -146,7 +147,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Exploratory Data Analysis:** Queried and analyzed food hygiene ratings to identify high- and low-rated establishments, focusing on London and new restaurant recommendations.
 
 
-#### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis | [View Repository](https://github.com/skythelimitdt/Crowdfunding_ETL)
+#### Crowdfunding Data Pipeline: ETL, Database Design, and Analysis | [View Repo](https://github.com/skythelimitdt/Crowdfunding_ETL)
 
 > **Tech Stack:** PostgreSQL, quickdatabasediagrams.com, Python, Pandas, Numpy
 
@@ -158,7 +159,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 ### 🐍 Python
 
-#### Statistical Analysis: Capomulin Drug Analysis | [View Repository](https://github.com/skythelimitdt/matplotlib-challange)
+#### Statistical Analysis: Capomulin Drug Analysis | [View Repo](https://github.com/skythelimitdt/matplotlib-challange)
 
 > **Tech Stack:** Jupyter Lab, Python, Matplotlib, Seaborn, Pandas, Numpy, SciPy
 
@@ -166,7 +167,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Correlation & Regression:** Performed correlation analysis and regression to assess the relationship between treatment and tumor development, providing insights into the performance of Capomulin in comparison to other drugs.
 
 
-#### Global Energy Consumption Analysis and Trends | [View Repository](https://github.com/skythelimitdt/data_analytics_proj1)
+#### Global Energy Consumption Analysis and Trends | [View Repo](https://github.com/skythelimitdt/data_analytics_proj1)
 
 > **Tech Stack:** Jupyter Lab, Python, Matplotlib, Pandas, Hvplot, Numpy, SciPy, Seaborn, Statsmodels.api, Holoviews
 
@@ -175,7 +176,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Forecasted future renewable energy consumption** for the next 50 years based on historical data.
 
 
-#### Weather Patterns and Vacation Planning by Latitude | [View Repository](https://github.com/skythelimitdt/python-api-challange/tree/main)
+#### Weather Patterns and Vacation Planning by Latitude | [View Repo](https://github.com/skythelimitdt/python-api-challange/tree/main)
 
 > **Tech Stack:** Jupyter Lab, Python, Matplotlib, Hvplot, Pandas, Numpy, SciPy, Geoapify API
 
@@ -187,7 +188,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 ### 💛 Javascript & HTML
 
-#### Interactive Dashboard in Javascript | [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge) | [View Repository](https://github.com/skythelimitdt/belly-button-challenge)
+#### Interactive Dashboard in Javascript | [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge) | [View Repo](https://github.com/skythelimitdt/belly-button-challenge)
 
 > **Tech Stack:** Javascript, HTML
 
@@ -196,7 +197,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Data-Driven Insights:** Implemented a horizontal bar chart to display the top 10 bacterial species per individual, a bubble chart to show the distribution of all OTUs, and a metadata panel to present participant demographic details.
 
 
-#### Map with leaflet | [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge) | [View Repository](https://github.com/skythelimitdt/leaflet-challenge)
+#### Map with leaflet | [View The Interactive Map](https://skythelimitdt.github.io/leaflet-challenge) | [View Repo](https://github.com/skythelimitdt/leaflet-challenge)
 
 > **Tech Stack:** Javascript, Leaflet.js, D3.js, HTML, CSS
 
@@ -204,7 +205,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - Earthquakes are represented by circle markers where size indicates magnitude and color reflects depth, with popups providing detailed information.
 - Integrated interactive layer controls for toggling earthquake and tectonic plate data, offering various base map options (Satellite, Grayscale, Outdoors), and a legend for depth color-coding.
 
-#### Mars Data Scraping and Climate Analysis | [View Repository](https://github.com/skythelimitdt/WebScraping)
+#### Mars Data Scraping and Climate Analysis | [View Repo](https://github.com/skythelimitdt/WebScraping)
 
 > **Tech Stack:** Jupyter Lab, Python, Splinter, Beautiful Soup, Pandas, Matplotlib, JSON
 
