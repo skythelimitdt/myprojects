@@ -54,19 +54,19 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="databricks" src="https://img.shields.io/badge/databricks-288292?style=for-the-badge&logo=databricks&logoSize=30px&logoColor=white" width="80" height="22" alt="databricks"/></a>
-      <a href="#"><img alt="awssagemaker" src="https://img.shields.io/badge/aws_sagemaker-32948?style=for-the-badge&logo=aws%20sagemaker&logoSize=30px&logoColor=white&labelColor=%23bf80ff&color=%23bf80ff" width="90" height="22" alt="sagemaker"/></a>
-      <a href="#"><img alt="googlecolab" src="https://img.shields.io/badge/Google_colab-white?style=for-the-badge&logo=google%20colab&logoSize=30px&labelColor=%236699ff&color=%236699ff" width="90" height="22" alt="colab"/></a>
+      <a href="#"><img alt="databricks" src="https://img.shields.io/badge/databricks-288292?style=for-the-badge&logo=databricks&logoSize=30px&logoColor=white" width="80" height="20" alt="databricks"/></a>
+      <a href="#"><img alt="awssagemaker" src="https://img.shields.io/badge/aws_sagemaker-32948?style=for-the-badge&logo=aws%20sagemaker&logoSize=30px&logoColor=white&labelColor=%23bf80ff&color=%23bf80ff" width="90" height="20" alt="sagemaker"/></a>
+      <a href="#"><img alt="googlecolab" src="https://img.shields.io/badge/Google_colab-white?style=for-the-badge&logo=google%20colab&logoSize=30px&labelColor=%236699ff&color=%236699ff" width="90" height="20" alt="colab"/></a>
 
   </p>
 
 <h3>📊 Data Visualization & BI Tools</h3>
 
   <p>
-  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="22" alt="tableau"/> </a>
-  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="80" height="22" alt="matplotlib"/> </a>
-  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="80" height="22" alt="Seaborn"/> </a>
-
+  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6" width="80" height="20" alt="tableau"/> </a>
+  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6" width="90" height="20" alt="matplotlib"/> </a>
+  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="90" height="20" alt="Seaborn"/> </a>
+  <a href="#"><img alt="d3.js" src="https://custom-icon-badges.demolab.com/badge/d3.js-379374?style=for-the-badge&logo=d3-min&labelColor=%236666ff&color=%236666ff" width="80" height="20" alt="d3.js"/> </a>
 --- 
 
 ## 🔍 My Projects 
