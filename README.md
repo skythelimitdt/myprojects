@@ -29,9 +29,10 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy&labelColor=%23cc0000&color=%23cc0000"></a>
-      <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/scikit-learn?logo=scikit-learn&labelColor=black&color=black"></a>
+     <a href="#"><img alt=“keras” src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square"></a>
+      <a href="#"><img alt=“Scikit-learn” src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square"></a>
       <a href="#"><img alt=“apache-hadoop” src="https://img.shields.io/badge/Apache_hadoop-white?logo=apache%20hadoop&labelColor=%23F9FB22&color=%23F9FB22"></a>
+      <a href="#"><img alt=“SQLAlchemy” src="https://img.shields.io/badge/sqlalchemy-2829?logo=sqlalchemy&labelColor=%23cc0000&color=%23cc0000"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -59,20 +60,22 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
   </p>
 
+<h3>📊 Data Visualization & BI Tools</h3>
+
+  <p>
+  <a href="#"><img alt="tableau" src="https://custom-icon-badges.demolab.com/badge/tableau-desktop?logo=tableaudesktop&labelColor=%23e6e6e6&color=%23e6e6e6"></a>
+  <a href="#"><img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/matplotlib-white?style=for-the-badge&logo=matplotlib2&labelColor=%235c85d6&color=%235c85d6"></a>
+  <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999"></a>
 
 ## 🔍 My Projects 
 ### 📊 Tableau
-#### Tableau citibike project
+#### Tableau citibike project | [View Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
 **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
 - Developed an interactive map and conducted station ID analysis, along with monthly, weekly, and daily usage statistics, enabling data-driven decisions to enhance the Citi Bike NYC's efficiency and performance.
-
-[View Tableau Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1)
-
-[View Repository](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 
 
