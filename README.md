@@ -70,15 +70,14 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 --- 
 
 ## 🔍 My Projects 
-<details> 
- <summary><h3> 📊 Tableau </h3></summary>
-<h4>Tableau citibike project </h4> |  <a href="https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1"> View Dashboard </a> | <a href="https://github.com/skythelimitdt/tableau-citibike-analysis"> View Repo </a>
+
+### 📊 Tableau 
+#### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
 - Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 
-</details>
 
 ### 🧠 Machine Learning & 🤖 Neural Networks
 #### Credit Risk Classification Model via Machine Learning | [View Repository](https://github.com/skythelimitdt/credit-risk-classification)
