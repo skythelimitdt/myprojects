@@ -7,13 +7,13 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 ## 💡 My Approach to Work and Life ##
 I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements: 
-**→ 1. Be Impeccable with Your Word**
-I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value! 
-**→ 2. Don’t Take Anything Personally**
-In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind. 
-**→ 3. Don’t Make Assumptions**
-I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers. 
-**→ 4. Always Do Your Best**
+**→ 1. Be Impeccable with Your Word**  
+I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!  
+**→ 2. Don’t Take Anything Personally**  
+In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.  
+**→ 3. Don’t Make Assumptions**  
+I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.   
+**→ 4. Always Do Your Best**  
 Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.  
 
   <h2>🛠️ My Favorite Tools</h2>
