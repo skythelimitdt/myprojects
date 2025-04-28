@@ -5,16 +5,7 @@ I’m a data analyst and digital marketer with a passion for turning numbers int
 
 When I’m not diving into datasets or fine-tuning predictive models, you’ll find me staying active—whether it’s working out, sprinting around the park in epic races with my kids, or outthinking them in a heated Uno showdown (spoiler: they win more than I’d like to admit). I also love reading and constantly exploring ways to refine strategies, not just in business but in life. My goal? To keep pushing boundaries, solving complex problems, and making data-driven decisions that matter.
 
-## 💡 My Approach to Work and Life ##
-I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
-**`→ 1. Be Impeccable with Your Word`**  
-I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!    
-**`→ 2. Don’t Take Anything Personally`**  
-In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.    
-**`→ 3. Don’t Make Assumptions`**  
-I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.     
-**`→ 4. Always Do Your Best`**  
-Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.    
+ 
 
   <h2>🛠️ My Favorite Tools</h2>
 
@@ -79,6 +70,16 @@ Whether it’s optimizing a machine learning model or refining a marketing campa
   <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="90" height="20" alt="Seaborn"/> </a>
   <a href="#"><img alt="d3.js" src="https://custom-icon-badges.demolab.com/badge/d3.js-379374?style=for-the-badge&logo=d3-min&labelColor=%236666ff&color=%236666ff" width="80" height="20" alt="d3.js"/> </a> 
 
+## 💡 My Approach to Work and Life ##
+I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
+**`→ 1. Be Impeccable with Your Word`**  
+I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!    
+**`→ 2. Don’t Take Anything Personally`**  
+In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.    
+**`→ 3. Don’t Make Assumptions`**  
+I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.     
+**`→ 4. Always Do Your Best`**  
+Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.   
 --- 
 
 ## 🔍 My Projects 
