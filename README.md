@@ -74,8 +74,9 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 --- 
 
 ## 🔍 My Projects 
+Summary of my projects:  
 <details>
-<summary><h3>📊 Tableau Projects</h3></summary>
+<summary><h4>📊 Tableau Projects</h4></summary>
 #### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
@@ -84,7 +85,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 </details>
 
 <details>
-<summary><h3>🧠 Machine Learning & 🤖 Neural Networks Projects</h3></summary>
+<summary><h4>🧠 Machine Learning & 🤖 Neural Networks Projects</h4></summary>
 #### Credit Risk Classification Model via Machine Learning | [View Repo](https://github.com/skythelimitdt/credit-risk-classification)
 
 > **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -123,7 +124,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 </details>
 
 <details>
-<summary><h3>🗄️ Databases</h3></summary>
+<summary><h4>🗄️ Databases Projects</h4></summary>
 #### Flask API Climate App with SQLAlchemy | [View Repo](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 > **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
@@ -161,7 +162,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 </details>
 
 <details>
-<summary><h3>🐍 Python Projects</h3></summary>
+<summary><h4>🐍 Python Projects</h4></summary>
 
 #### Statistical Analysis: Capomulin Drug Analysis | [View Repo](https://github.com/skythelimitdt/matplotlib-challange)
 
@@ -190,7 +191,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 </details>
 
 <details>
-<summary><h3>💛 Javascript & HTML Projects</h3></summary>
+<summary><h4>💛 Javascript & HTML Projects</h4></summary>
 
 #### Interactive Dashboard in Javascript | [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge) | [View Repo](https://github.com/skythelimitdt/belly-button-challenge)
 
