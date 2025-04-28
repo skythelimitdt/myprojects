@@ -75,16 +75,16 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 ## 🔍 My Projects 
 <details>
-<summary><h3>- 📊 Tableau Projects</h3></summary>
+<summary><h3>📊 Tableau Projects</h3></summary>
 #### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
 - Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
 </details>
-#
+
 <details>
-<summary><h3>- 🧠 Machine Learning & 🤖 Neural Networks Projects</h3></summary>
+<summary><h3>🧠 Machine Learning & 🤖 Neural Networks Projects</h3></summary>
 #### Credit Risk Classification Model via Machine Learning | [View Repo](https://github.com/skythelimitdt/credit-risk-classification)
 
 > **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -159,9 +159,8 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - Created DataFrames for each CSV, including columns like category IDs, campaign details (goal, pledged amount, launch and end dates), and contact information, then exported them to CSV files.
 - Designed and implemented a PostgreSQL database schema with appropriate primary and foreign keys, ensuring proper relationships between tables, and successfully imported the data into the database for analysis.
 
-#
-
-### 🐍 Python
+<details>
+<summary><h3>🐍 Python Projects</h3></summary>
 
 #### Statistical Analysis: Capomulin Drug Analysis | [View Repo](https://github.com/skythelimitdt/matplotlib-challange)
 
@@ -187,10 +186,10 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Weather Analysis by Latitude:** Used OpenWeatherMap API to retrieve weather data for over 500 cities, and created scatter plots to visualize how latitude influences weather variables like temperature, humidity, cloudiness, and wind speed.
 - **Linear Regression & Insights:** Computed linear regression for each relationship (temperature, humidity, cloudiness, wind speed) based on latitude, splitting the data into Northern and Southern Hemispheres for detailed analysis.
 - **Vacation Planning:** Created an interactive map that displays cities with humidity data, narrowed down cities with ideal weather, and used the Geoapify API to find nearby hotels, displaying them on the map with additional details for easy vacation planning.
+</details>
 
-# 
-
-### 💛 Javascript & HTML
+<details>
+<summary><h3>💛 Javascript & HTML Projects</h3></summary>
 
 #### Interactive Dashboard in Javascript | [View Dashboard](https://skythelimitdt.github.io/belly-button-challenge) | [View Repo](https://github.com/skythelimitdt/belly-button-challenge)
 
@@ -216,6 +215,9 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Web Scraping for Mars News:** Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
 - **Scraping and Analyzing Mars Weather Data:** Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
 - **Data Visualization & Insights:** Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
+</details>
+
+---
 
 ## 💡 My Approach to Work and Life
 I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
