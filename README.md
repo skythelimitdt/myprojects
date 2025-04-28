@@ -121,9 +121,9 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Data Analysis & Visualization:** Conducted data cleaning, feature engineering, and created visualizations using Tableau to identify patterns such as delay causes, carrier frequencies, and time-of-day impacts on delays.
 - **Best Model & Results:** The Random Forest model, optimized with SMOTE and hyperparameter tuning, achieved 89% accuracy and 91% OOB score, accurately predicting on-time and delayed flights with high precision and recall.
 </details>
-#
 
-### 🗄️ Databases
+<details>
+<summary><h3>🗄️ Databases</h3></summary>
 #### Flask API Climate App with SQLAlchemy | [View Repo](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 > **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
@@ -158,6 +158,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - Developed an ETL pipeline using Python and Pandas to extract, transform, and load data into a PostgreSQL database from four CSV files: Category, Subcategory, Campaign, and Contacts.
 - Created DataFrames for each CSV, including columns like category IDs, campaign details (goal, pledged amount, launch and end dates), and contact information, then exported them to CSV files.
 - Designed and implemented a PostgreSQL database schema with appropriate primary and foreign keys, ensuring proper relationships between tables, and successfully imported the data into the database for analysis.
+</details>
 
 <details>
 <summary><h3>🐍 Python Projects</h3></summary>
