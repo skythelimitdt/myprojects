@@ -70,16 +70,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
   <a href="#"><img alt="seaborn" src="https://custom-icon-badges.demolab.com/badge/seaborn-392749?style=for-the-badge&logo=seaborn&labelColor=%23669999&color=%23669999" width="90" height="20" alt="Seaborn"/> </a>
   <a href="#"><img alt="d3.js" src="https://custom-icon-badges.demolab.com/badge/d3.js-379374?style=for-the-badge&logo=d3-min&labelColor=%236666ff&color=%236666ff" width="80" height="20" alt="d3.js"/> </a> 
 
-## 💡 My Approach to Work and Life ##
-I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
-**`→ 1. Be Impeccable with Your Word`**  
-I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!    
-**`→ 2. Don’t Take Anything Personally`**  
-In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.    
-**`→ 3. Don’t Make Assumptions`**  
-I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.     
-**`→ 4. Always Do Your Best`**  
-Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.   
+
 --- 
 
 ## 🔍 My Projects 
@@ -225,3 +216,14 @@ Whether it’s optimizing a machine learning model or refining a marketing campa
 - **Web Scraping for Mars News:** Used Splinter and Beautiful Soup to extract article titles and preview text from the Mars news website, storing the data in a structured format.
 - **Scraping and Analyzing Mars Weather Data:** Collected temperature and atmospheric pressure data from a Mars weather site, structured it into a Pandas DataFrame, and conducted analysis to identify climate trends on Mars.
 - **Data Visualization & Insights:** Explored seasonal variations on Mars, identified the coldest/warmest months, examined atmospheric pressure trends, and estimated the length of a Martian year in Earth days.
+
+## 💡 My Approach to Work and Life
+I don't just analyze data; I apply lessons learned from both experience and wisdom to create impactful, thoughtful results. Here's how I live by The Four Agreements:  <br>
+**`→ 1. Be Impeccable with Your Word`**  
+I lead with clarity and transparency, whether it’s crafting SQL queries, explaining machine learning models, or simply communicating with teammates. My words are tools for inspiring trust and delivering value!    
+**`→ 2. Don’t Take Anything Personally`**  
+In data, there’s no room for ego. Whether I’m troubleshooting a model’s performance or handling constructive feedback, I stay objective and focused. The data speaks for itself, and I listen to it with an open mind.    
+**`→ 3. Don’t Make Assumptions`**  
+I know the power of asking the right questions. Rather than assume, I dig deep into data, ask stakeholders for clarity, and ensure that I understand all the facts before jumping to conclusions. That’s how I uncover the true story behind the numbers.     
+**`→ 4. Always Do Your Best`**  
+Whether it’s optimizing a machine learning model or refining a marketing campaign, I give my all. I strive for continuous improvement, learning from each experience to become better at what I do and deliver results that matter.   
