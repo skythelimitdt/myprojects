@@ -74,9 +74,10 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 --- 
 
 ## 🔍 My Projects 
-Summary of my projects:  
+
 <details>
 <summary><h4>📊 Tableau Projects</h4></summary>
+ 
 #### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
@@ -86,6 +87,7 @@ Summary of my projects:
 
 <details>
 <summary><h4>🧠 Machine Learning & 🤖 Neural Networks Projects</h4></summary>
+ 
 #### Credit Risk Classification Model via Machine Learning | [View Repo](https://github.com/skythelimitdt/credit-risk-classification)
 
 > **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -125,6 +127,7 @@ Summary of my projects:
 
 <details>
 <summary><h4>🗄️ Databases Projects</h4></summary>
+ 
 #### Flask API Climate App with SQLAlchemy | [View Repo](https://github.com/skythelimitdt/sqlalchemy-challenge/tree/main)
 
 > **Tech Stack:** SQLAlchemy, Python, Pandas, Matplotlib, Numpy
