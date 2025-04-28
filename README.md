@@ -74,17 +74,17 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 --- 
 
 ## 🔍 My Projects 
-
-### 📊 Tableau 
+<details>
+<summary><h3>- 📊 Tableau Projects</h3></summary>
 #### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
 - Designed and developed an interactive dashboard to help Citi Bike officials analyze usage trends, optimize operations, driving increased awareness and program efficiency.
-
+</details>
 #
-
-### 🧠 Machine Learning & 🤖 Neural Networks
+<details>
+<summary><h3>- 🧠 Machine Learning & 🤖 Neural Networks Projects</h3></summary>
 #### Credit Risk Classification Model via Machine Learning | [View Repo](https://github.com/skythelimitdt/credit-risk-classification)
 
 > **Tech Stack:** Jupyter Lab, Python, Pandas, Numpy, Scikit-learn
@@ -120,7 +120,7 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 - **Objective:** Developed a machine learning model to predict flight arrival delays for flights departing from Arizona airports using 3 years of flight data, employing models like Random Forest, Gradient - Boosting, and Neural Networks.
 - **Data Analysis & Visualization:** Conducted data cleaning, feature engineering, and created visualizations using Tableau to identify patterns such as delay causes, carrier frequencies, and time-of-day impacts on delays.
 - **Best Model & Results:** The Random Forest model, optimized with SMOTE and hyperparameter tuning, achieved 89% accuracy and 91% OOB score, accurately predicting on-time and delayed flights with high precision and recall.
-
+</details>
 #
 
 ### 🗄️ Databases
