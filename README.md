@@ -1,5 +1,5 @@
 # Eylem Yildirim
-**`Data Analyst / Digital Marketer / Gym Rat / Mother`**
+**`Marketing Analyst / Data Scientist / Gym Rat / Mother`**
 
 I’m a marketing analyst with a passion for turning numbers into narratives and optimizing everything—whether it's ad performance, machine learning models, or even my kids’ Uno strategy. With over 15 years in e-commerce, performance marketing, and ad-tech, I thrive on uncovering insights that drive real business impact. I specialize in SQL, Python, big data, and machine learning, helping businesses maximize ROI, improve KPIs, and optimize LTV.
 
