@@ -76,8 +76,9 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 ## 🔍 My Projects 
 
 <details>
-<summary><h4>📊 Tableau Projects</h4></summary>
-#### CRM Dashboard |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/ecommerceDashboard/crmdashboard?publish=yes) 
+<summary><h4>📊 Tableau Projects</h4></summary>  
+
+ #### CRM Dashboard |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/ecommerceDashboard/crmdashboard?publish=yes) 
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
 
