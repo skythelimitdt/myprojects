@@ -77,7 +77,11 @@ When I’m not diving into datasets or fine-tuning predictive models, you’ll f
 
 <details>
 <summary><h4>📊 Tableau Projects</h4></summary>
- 
+#### CRM Dashboard |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/ecommerceDashboard/crmdashboard?publish=yes) 
+
+> **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
+
+- Designed and built an interactive CRM dashboard to track key performance indicators (KPIs) and evaluate traffic source quality, enabling data-driven insights into campaign performance and customer acquisition efficiency  
 #### Tableau citibike project |  [View Dashboard](https://public.tableau.com/app/profile/eylem.yildirim/viz/citybikeproject_17400059229000/Story1) | [View Repo](https://github.com/skythelimitdt/tableau-citibike-analysis)
 
 > **Tech Stack:** Tableau Public, Jupyter Lab, Python, Pandas
